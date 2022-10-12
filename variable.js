@@ -83,8 +83,18 @@ var number = 25.5;
 var absoluteNumber = Math.round(number);
 console.log(absoluteNumber);
 
-
+// round kore barabe
 var number = 28.5;
 var result = Math.ceil(number);
 console.log(result);
 
+// round kore nambe
+var number = 28.5;
+var result = Math.floor(number);
+console.log(result);
+
+
+// random number jekono number dekhabe jotobar check korbe totobar 0 theke 1 er moddhe je kono 
+var number = 8;
+var result = Math.random(number);
+console.log(result);
