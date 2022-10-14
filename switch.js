@@ -44,3 +44,6 @@ switch (num) {
         console.log("i don't know who you are");
 
 }
+// i am 100
+// i am 60 or 50
+// i don't know who you are break na dile sob gula print hobe
